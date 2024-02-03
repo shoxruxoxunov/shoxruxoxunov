@@ -2,9 +2,7 @@
 - 🌱 I’m currently learning ...to front-end developer
 - 💞️ I’m looking to collaborate on ...front-end developer
 - 📫 How to reach me ... shoxaokxunov@gmail.com
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+ 
   
 
 ### <div align="center">I'm Shokhrukh, web- developer 👨‍💻 learing  since 2023 🚀</div>  
