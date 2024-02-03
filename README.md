@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Привет 👋, я Шохрух</h1>
 <h3 align="center">Увлеченный фронтенд-разработчик из Узбекистана</h3>
 
-<h3 align="left">Свяжитесь со мной:< /h3>
+
 <p align="left">
 </p>
 
