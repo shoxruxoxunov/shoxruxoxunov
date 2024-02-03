@@ -7,14 +7,13 @@
 
 ### <div align="center">I'm Shokhrukh, web- developer 👨‍💻 learing  since 2023 🚀</div>  
   
-
--   
+ 
   
 
 - 🌱 I’m currently learning html,css,js,react,redux,typescript  
   
 
--   
+  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
